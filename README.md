@@ -1,7 +1,7 @@
 # UniFace
 
 ## Intro
-UniFace is a C# API for realtime mes UV space manipulations in Unity.
+UniFace is a C# API for realtime mesh UV space manipulations in Unity.
 
 ## Soon
 Examples
